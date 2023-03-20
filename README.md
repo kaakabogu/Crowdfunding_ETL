@@ -8,5 +8,6 @@ To facilitate the storage and management of the transformed data, the team utili
 
 Overall, the ETL mini project represented a practical opportunity for the team to put their data analytics skills into practice, while leveraging a diverse array of tools and techniques. The successful completion of the project, including the extraction, transformation, and uploading of data, is a testament to the efficacy of the team's approach and the tools employed in the project. 
 
-
+Here is the entity relationship diagram for the crowdfunding database:
+![](Resources/ERD_Imagee.png)
 
